@@ -1,6 +1,6 @@
-Apologies for the oversight. Below is your full README with the requested sections added at the beginning:
 
-```markdown
+
+
 # JavaScript Lesson: Exploring Data Types and Functions in the Halo Universe
 
 ## Requirements
@@ -33,9 +33,9 @@ To get started with the lesson, follow these steps:
 
 Clone this repository to your local machine using the following command:
 
-```bash
+
 git clone https://github.com/MenokoOG/halo_javascript_lessons
-```
+
 
 ### 2. Navigate to the Repository
 
@@ -196,4 +196,3 @@ In this lesson, we'll dive deeper into JavaScript functions and data structures 
    - Armed with this knowledge, we're better equipped to tackle coding challenges and embark on new programming adventures with confidence.
 ``` 
 
-Your README is now Markdown compliant and includes sections explaining the requirements for VS Code and Node.js at the beginning.
