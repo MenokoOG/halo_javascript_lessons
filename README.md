@@ -1,13 +1,23 @@
+Apologies for the oversight. Below is your full README with the requested sections added at the beginning:
 
+```markdown
+# JavaScript Lesson: Exploring Data Types and Functions in the Halo Universe
+
+## Requirements
+
+Before starting this lesson, please ensure you have the following software installed:
+
+- **Visual Studio Code**: A lightweight but powerful source code editor which comes with built-in support for JavaScript, TypeScript, and Node.js. You can download it from [here](https://code.visualstudio.com/).
+- **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine. It allows you to run JavaScript code outside of a web browser. You can download it from [here](https://nodejs.org/).
 
 ---
 
-# JavaScript Lesson: Exploring Data Types and Functions in the Halo Universe
-
 ## Overview
+
 Welcome to the JavaScript lesson on exploring data types and functions using the theme of the Halo Universe! In this lesson, you'll embark on an adventure through the Halo Universe to master different data types and functions in JavaScript. By relating each concept to elements within the Halo Universe, you'll gain a deeper understanding while having fun exploring the world of JavaScript.
 
 ## Lesson Contents
+
 This lesson includes the following topics:
 - Introduction to JavaScript Data Types
 - Exploring Primitive and Complex Data Types
@@ -16,9 +26,11 @@ This lesson includes the following topics:
 - Demonstration Program: Simulating Actions in the Halo Universe
 
 ## Getting Started
+
 To get started with the lesson, follow these steps:
 
 ### 1. Clone the Repository
+
 Clone this repository to your local machine using the following command:
 
 ```bash
@@ -26,6 +38,7 @@ git clone https://github.com/MenokoOG/halo_javascript_lessons
 ```
 
 ### 2. Navigate to the Repository
+
 Navigate to the cloned repository directory:
 
 ```bash
@@ -33,6 +46,7 @@ cd halo_javascript_lessons
 ```
 
 ### 3. Delete the `.git` Folder
+
 Before you start working on your own projects, delete the `.git` folder within the cloned repository directory on your machine. This will remove the connection to the original repository and allow you to start fresh with your own version control. You can do this using the following command:
 
 ```bash
@@ -40,16 +54,19 @@ rm -rf .git
 ```
 
 ### 4. Explore the Lesson Materials
+
 Explore the lesson materials provided in the repository, including presentation slides, code examples, and the demonstration program.
 
 ### 5. Run the Demonstration Program
+
 Run the demonstration program to see the concepts in action:
 
 ```bash
-node halo_demo.js
+node run_program.js
 ```
 
 ## Additional Resources
+
 - [JavaScript MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Codecademy JavaScript Course](https://www.codecademy.com/learn/introduction-to-javascript)
 
@@ -130,7 +147,9 @@ To understand complex data types in JavaScript and their role in organizing and 
 In ES5, we'll explore complex data types using `var`.
 
 **1. Objects:**
-Objects are collections of key-value pairs. For example, `var masterChiefArmor` is an object with properties like `color` and `helmetType`.
+Objects are collections of key-value pairs. For example, `var
+
+ masterChiefArmor` is an object with properties like `color` and `helmetType`.
 
 **2. Arrays:**
 Arrays are ordered collections of values. For instance, `var spartanSquad = ["Master Chief", "Spartan-117", "Spartan-087"];` defines an array containing the names of Spartan soldiers.
@@ -175,3 +194,6 @@ In this lesson, we'll dive deeper into JavaScript functions and data structures 
 **6. Conclusion:**
    - By immersing ourselves in the world of JavaScript functions and data structures through the lens of the Halo Universe, we've gained valuable insights into programming concepts.
    - Armed with this knowledge, we're better equipped to tackle coding challenges and embark on new programming adventures with confidence.
+``` 
+
+Your README is now Markdown compliant and includes sections explaining the requirements for VS Code and Node.js at the beginning.
