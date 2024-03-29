@@ -1,4 +1,4 @@
-Apologies for the oversight. Let's include that information in the documentation:
+
 
 ---
 
@@ -22,14 +22,14 @@ To get started with the lesson, follow these steps:
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MenokoOG/halo_javascript_lessons
 ```
 
 ### 2. Navigate to the Repository
 Navigate to the cloned repository directory:
 
 ```bash
-cd javascript-halo-lesson
+cd halo_javascript_lessons
 ```
 
 ### 3. Delete the `.git` Folder
