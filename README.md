@@ -33,9 +33,9 @@ To get started with the lesson, follow these steps:
 
 Clone this repository to your local machine using the following command:
 
-
+```bash
 git clone https://github.com/MenokoOG/halo_javascript_lessons
-
+```
 
 ### 2. Navigate to the Repository
 
